@@ -24,7 +24,7 @@ There is a possibility to load command by command from the saved log (for that i
 
 ![Image of Yaktocat](https://i.imgur.com/R8Bmq6s.png)
 
-Adding shape:
+###Adding shape:
 
 ![Image of Yaktocat](https://i.imgur.com/llapx1l.png)
 
