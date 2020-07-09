@@ -25,19 +25,25 @@ There is a possibility to load command by command from the saved log (for that i
 ![Image of Yaktocat](https://i.imgur.com/R8Bmq6s.png)
 
 Adding shape:
+
 ![Image of Yaktocat](https://i.imgur.com/llapx1l.png)
 
 Selection:
+
 ![Image of Yaktocat](https://i.imgur.com/tgcnyw1.png)
 
 Modification:
+
 ![Image of Yaktocat](https://i.imgur.com/E1x8QI5.png)
 
 Delete:
+
 ![Image of Yaktocat](https://i.imgur.com/HbhykKv.png)
 
 Undo and log of commands:
+
 ![Image of Yaktocat](https://i.imgur.com/zulFKbY.png)
 
 Saving painting/log:
+
 ![Image of Yaktocat](https://i.imgur.com/m2zktDP.png)
